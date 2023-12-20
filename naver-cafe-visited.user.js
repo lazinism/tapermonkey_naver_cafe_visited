@@ -9,6 +9,7 @@
 // @match        https://cafe.naver.com/ArticleList.nhn*
 // @match        https://cafe.naver.com/ca-fe/cafes/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=naver.com
-// @run-at document-start
+// @run-at       document-start
+// @grant        none
 // ==/UserScript==
 document.head.innerHTML+=`<style>a.article:visited,a.tit:visited,a.m-tcol-c:visited{color:#ccc !important;}</style>`;

@@ -1,10 +1,9 @@
 // ==UserScript==
-// @name         카페회색
+// @name         네이버 카페 방문 페이지 회색표시하기
 // @namespace    http://nokduro.com/
-// @version      2023-12-20.1
-// @description  글자색회색
+// @version      2023-12-20.2
+// @description  '이미 방문한 페이지'를 회색(#ccc)으로 표시합니다. 해당 색상은 '트게더'에 사용되었던 방문 페이지 색상과 동일합니다.
 // @author       귀챠니즘
-// @match        https://cafe.naver.com/nokduro*
 // @match        https://cafe.naver.com/MyCafeIntro.nhn*
 // @match        https://cafe.naver.com/ArticleList.nhn*
 // @match        https://cafe.naver.com/ca-fe/cafes/*

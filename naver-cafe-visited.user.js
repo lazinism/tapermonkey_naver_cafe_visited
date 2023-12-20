@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         카페회색
 // @namespace    http://nokduro.com/
-// @version      2023-12-20
+// @version      2023-12-20.1
 // @description  글자색회색
 // @author       귀챠니즘
 // @match        https://cafe.naver.com/nokduro*
